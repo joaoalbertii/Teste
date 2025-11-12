@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Verificador de Idade")
+st.title("Teste")
 Nome = st.text_input("Digite seu nome completo:")
 idade_str = st.text_input("Digite sua idade (apenas números):")
 if Nome and idade_str:
